@@ -1,1 +1,9 @@
-# guia-estudos-programador-iniciante
+![1](https://user-images.githubusercontent.com/123338455/224515730-795391a4-7ff4-4dab-bfab-ad41f40505cf.png)
+![2](https://user-images.githubusercontent.com/123338455/224515745-02ba11de-91b3-4895-b42e-e8dbcfcda0f2.png)
+![3](https://user-images.githubusercontent.com/123338455/224515737-0428e599-5d6c-43bb-b250-9b7fcd9fa772.png)
+![4](https://user-images.githubusercontent.com/123338455/224515738-3177b077-9981-4a2e-a89f-2593dcff34a5.png)
+![5](https://user-images.githubusercontent.com/123338455/224515740-4d3b1e2e-7ce4-4241-a4e7-93cf7962b78d.png)
+![6](https://user-images.githubusercontent.com/123338455/224515741-e1136e37-beb7-4bf4-a979-7302c760a847.png)
+![7](https://user-images.githubusercontent.com/123338455/224515742-ce1a8a96-ccc6-47d6-8d89-cf865e439732.png)
+![8](https://user-images.githubusercontent.com/123338455/224515743-53d97070-f86f-4f23-9c55-74f703055a58.png)
+![9](https://user-images.githubusercontent.com/123338455/224515744-f738a5b5-8bf9-4076-8eb8-92f0892493e6.png)
